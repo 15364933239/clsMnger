@@ -1,0 +1,70 @@
+﻿*
+{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+body
+{
+	background: url(../images/bg.png) 0 28px #f1f1f1 repeat-x;
+	color: #333;
+	font-size: 14px;
+	line-height: 25px;
+	font-family: microsoft yahei, "微软雅黑";
+}
+input, select, textarea
+{
+	font-family: microsoft yahei, "微软雅黑";
+	font-size: 14px;
+	color:#666666;
+	outline:none;
+}
+a
+{
+	color: #333;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #f60;
+	text-decoration: underline;
+}
+img
+{
+	border-width: 0;
+}
+.fl
+{
+	float: left;
+}
+.fr
+{
+	float: right;
+}
+.clear
+{
+	clear: both;
+	height: 0;
+	overflow: hidden;
+}
+.none
+{
+	display: none;
+}
+.block
+{
+	display: block;
+}
+.flow
+{
+	overflow: hidden;
+}
+.mt10 {
+    margin-top:10px;
+}
+.pt10  {
+    padding-top:10px;
+}
+.box {
+    width:1180px; margin:0 auto; overflow:hidden; height:100%;
+}
